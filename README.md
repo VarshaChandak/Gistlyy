@@ -22,7 +22,9 @@
    cd Gistlyy
 
 2.Install dependencies:
-```bash
-npm install
+   ```bash
+   npm install
+
+
 
 
