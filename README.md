@@ -21,12 +21,13 @@
    git clone https://github.com/VarshaChandak/Gistlyy.git
    cd Gistlyy
 
- 2.Install dependencies:
-   ```bash
-    npm install
+  
+## Project Title
 
-3.Start the app:
-  ```bash
-    npm start
+Here's a screenshot of the app:
 
+![image](https://github.com/user-attachments/assets/32454e9e-0c87-43e3-afeb-b0f8a0ea6e37)
+
+
+ 
 
